@@ -1,1 +1,1 @@
-# Stochastic-Diff-Eq-PulsarSpinNoise
+# Pulsar Spin noise simulator
